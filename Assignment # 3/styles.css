@@ -1,0 +1,32 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+#menusection {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+#genreHeading {
+  position: absolute;
+  margin: auto;
+  bottom: 100px;
+}
+#yearHeading {
+  margin: auto;
+  bottom: 100px;
+}
+#ratingHeading {
+  margin: auto;
+  bottom: 100px;
+}
+#languageHeading{
+  margin: auto;
+  bottom: 100px;
+}
